@@ -13,6 +13,13 @@ This Python library performs a series of 2D transformations on a set of points, 
 
 ### Running Tests
 
+To run the project and see different points get transformed, use the following:
+
+```
+python3 -m transformation_project
+```
+
 To run the tests, navigate to the project root directory and use the following command:
-```bash
+```
 python3 -m tests.__main__
+```
