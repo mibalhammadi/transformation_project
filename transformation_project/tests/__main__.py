@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import os
 # Ensure the parent directory is in the sys.path for imports 
