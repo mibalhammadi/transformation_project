@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from transformation_classes.point2d import Point2D
 from transformation_classes.translate import Translate
 from transformation_classes.rotate import Rotate
